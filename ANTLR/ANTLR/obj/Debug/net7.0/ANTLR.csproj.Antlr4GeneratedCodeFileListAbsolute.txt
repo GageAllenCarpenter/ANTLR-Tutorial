@@ -1,0 +1,4 @@
+C:\Users\gagea\OneDrive\Desktop\ANTLR\ANTLR\obj\Debug\net7.0\QueryLanguageLexer.cs
+C:\Users\gagea\OneDrive\Desktop\ANTLR\ANTLR\obj\Debug\net7.0\QueryLanguageParser.cs
+C:\Users\gagea\OneDrive\Desktop\ANTLR\ANTLR\obj\Debug\net7.0\QueryLanguageVisitor.cs
+C:\Users\gagea\OneDrive\Desktop\ANTLR\ANTLR\obj\Debug\net7.0\QueryLanguageBaseVisitor.cs
